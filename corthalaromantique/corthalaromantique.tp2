@@ -113,6 +113,10 @@ LANGUAGE ~English~
          ~English~
          ~CorthalaRomantique/english/CRSetup.tra~
          ~CorthalaRomantique/english/CRGame.tra~
+LANGUAGE ~Simplified Chinese~
+         ~SChinese~
+         ~CorthalaRomantique/SChinese/CRSetup.tra~
+         ~CorthalaRomantique/SChinese/CRGame.tra~
 
 BEGIN @10000 DESIGNATED 0
 LABEL ~CorthalaRomantique-main~
